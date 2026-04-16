@@ -1,0 +1,5 @@
+{
+  "max_play_seconds": 3600,
+  "required_completion_rate": 0.5,
+  "max_network_mb": 500.0
+}
