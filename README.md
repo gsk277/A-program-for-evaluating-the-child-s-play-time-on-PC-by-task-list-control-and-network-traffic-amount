@@ -1,4 +1,4 @@
-# Variant 2 Assignment - Child Playtime Control (REST + FastAPI)
+# Variant 2 Assignment - Child Playtime Control (REST + FastAPI)-Gao Shuke
 
 This project implements **Variant 2** from the practical lessons:
 - Get task list
